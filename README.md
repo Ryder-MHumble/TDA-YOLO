@@ -1,6 +1,7 @@
 # TDA-YOLO
+## Introduction
 
-This repository contains the experimental data used for validating the results presented in our research paper on the TDA-YOLO model. The data is organized to facilitate easy access and verification of the results by storing training and validation outputs for different YOLO-based models. In addition to this, we provide you with download links to the open source datasets used in this repository.
+This repository contains the experimental data used for validating the results presented in our research paper on the TDA-YOLO model. The data is organized to facilitate easy access and verification of the results by storing training and validation outputs for different YOLO-based models. In addition to this, we provide you with download links to the open-source datasets used in this repository.
 ![Overview of the structure of TDA-YOLO](/images/TDA-YOLO.png)
 
 ## Repository Structure
