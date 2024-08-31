@@ -13,21 +13,17 @@ The repository is structured into two main directories, each containing data fro
 
 This directory contains the results from the training phase of the models. It is subdivided into three specific subdirectories:
 
-- **YOLO**: Contains training result images and logs for the standard YOLO model.
+- **YOLO**: Contains training result images and logs for the standard YOLO models and other YOLO models during the research.
   
 - **TDA-YOLO**: Stores training results specific to our proposed TDA-YOLO model, including visual outputs and log files.
-  
-- **Other-YOLO**: Includes training results for other YOLO variants compared in this study.
 
 ### 2. Value
 
 This directory includes validation data from the testing phase of the models. The structure is similar to the "Train" directory:
 
-- **YOLO**: Contains validation result images and logs for the standard YOLO model.
+- **YOLO**: Contains validation result images and logs for the standard YOLO models and other YOLO models during the research.
   
 - **TDA-YOLO**: Stores validation results for the TDA-YOLO model.
-  
-- **Other-YOLO**: Includes validation data for other YOLO variants evaluated during the research.
 
 ## How to Use This Repository
 
