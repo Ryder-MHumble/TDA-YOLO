@@ -33,7 +33,7 @@ This directory includes validation data from the testing phase of the models. Th
 
 3. **Verification**: These results can be used to verify the findings presented in our research paper.
 
-4. **DataSets**：The experimental dataset we used is an open source dataset:
+4. **DataSets**：The experimental datasets we used are two open source datasets:
    - **VisDrone2019**: https://github.com/VisDrone/VisDrone-Dataset
    - **Dotav2**: https://github.com/ultralytics/yolov5/releases/download/v1.0/DOTAv2.zip
 
