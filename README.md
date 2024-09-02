@@ -8,21 +8,17 @@ Unmanned Aerial Vehicle (UAV) remote sensing imagery (RSI) has been widely recog
 
 The repository is structured into two main directories, each containing data from different phases of model evaluation:
 
-### 1. Train
+### 1. Screenshot of experimental data
 
 This directory contains the results from the training phase of the models. It is subdivided into three specific subdirectories:
 
-- **YOLO**: Contains training result images and logs for the standard YOLO models and other YOLO models during the research.
+- **Train**: This directory is used to store screenshots of training result data for some of the models from the two open-source datasets.
+- ***VisDrone***
+- ***DOTAv2***
   
-- **TDA-YOLO**: Stores training results specific to our proposed TDA-YOLO model, including visual outputs and log files.
-
-### 2. Value
-
-This directory includes validation data from the testing phase of the models. The structure is similar to the "Train" directory:
-
-- **YOLO**: Contains validation result images and logs for the standard YOLO models and other YOLO models during the research.
-  
-- **TDA-YOLO**: Stores validation results for the TDA-YOLO model.
+- **Val**: This directory is used to store screenshots of value result data for some of the models from the two open-source datasets.
+- ***VisDrone***
+- ***DOTAv2***
 
 ## Experimental Datasets
  **DataSets**：The experimental datasets we used are two open source datasets:
