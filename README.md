@@ -31,4 +31,16 @@ This directory contains the results from the training phase of the models. It is
 ## Citation
 
 If you find this repository useful in your research, please consider citing our paper:
+```json
+@article{lu2025lightweight,
+  title={Lightweight multidimensional feature enhancement algorithm LPS-YOLO for UAV remote sensing target detection},
+  author={Lu, Yong and Sun, Minghao},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={1340},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+```
 
